@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1748102723820,
+      "tag": "0000_useful_sunspot",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1748103195020,
+      "tag": "0001_opposite_red_wolf",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1748105299295,
+      "tag": "0002_wet_franklin_storm",
+      "breakpoints": true
+    }
+  ]
+}
